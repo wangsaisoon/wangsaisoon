@@ -1,3 +1,4 @@
-target          //忽略这个target目录
+target         //忽略这个target目录
+target/*          //忽略这个target目录下的所有文件
 log/*           //忽略log下的所有文件
 .idea/*
